@@ -1,2 +1,5 @@
 1. It adds a empty .git folder, and creates a empty repository.
 To create a repository.
+2. It offers a logical unit of code ready to commit. Multiple ppl can add
+to it.
+

@@ -1,0 +1,5 @@
+4. Helps when trying to understand if there was a any change in a releated file.
+I like the concept of repository.
+Easy to identify all the files which are part of the project.
+5. git log list all the different commits which were made to the file.
+git diff lets you compare differnt versions of same file or different files.

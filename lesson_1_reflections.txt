@@ -1,0 +1,12 @@
+It was easy to identify.
+Line differences were clearly seen.
+2. History helps in understanding why changes were introduced.
+Who introduced the changes. When were the changes introduced.
+Easy to undo the changes.
+3.Manual saving helps in creating a logical version.
+Auto save can creat6. It's easy to revert back the whole project to an old verions.
+Changes which caused the issue can be identified and we can update the code.
+7. Validate code, compare and make changes.e mutliple versions, it will become difficult to identify which one is userful.
+
+
+

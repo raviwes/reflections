@@ -1,0 +1,2 @@
+1. It adds a empty .git folder, and creates a empty repository.
+To create a repository.

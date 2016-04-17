@@ -2,4 +2,8 @@
 To create a repository.
 2. It offers a logical unit of code ready to commit. Multiple ppl can add
 to it.
-
+3. Staging area - save after making a change and use diff
+4. Compare Staging area with working area to see all the differences.
+5. Branches will help when multiple people are working on different functions.
+6. Diagrams make it easy to identify all the different changes which are progress.
+7. Merging two branches together gives us one Master with logs of both the branches.
